@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java, mySQL, Fluttter,html,CSS and java script
 - 💞️ I’m looking to collaborate on  exciting projects that push the boundaries of web and mobile applications
 - 📫 How to reach me? Just email nokubongangema@gmail.com
-- 😄 Pronouns: her/she
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: My coding superpower? Turning coffee into code, one cup at a time!
 
 <!---
