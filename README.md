@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeCrafterNoku
+- 👋 Hi, I’m Nokubonga Ngema
 - 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning java, mySQL, Fluttter,html,CSS and java script
 - 💞️ I’m looking to collaborate on  exciting projects that push the boundaries of web and mobile applications
