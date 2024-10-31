@@ -17,7 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nokubonga siphiwesihle ngema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nokubonga siphiwesihle ngema" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/
+nokubonga-siphiwesihle
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nokubonga siphiwesihle ngema" height="30" width="40" /></a>
 <a href="https://fb.com/s'phiweaihle nokubonga mbatha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s'phiweaihle nokubonga mbatha" height="30" width="40" /></a>
 <a href="https://instagram.com/nokb.mbatha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nokb.mbatha" height="30" width="40" /></a>
 </p>
