@@ -13,7 +13,11 @@
 
 - 📫 How to reach me **nokubongangema8@gmail.com**
 
-- ⚡ Fun fact **I like to unwind by playing  video games—there’s something captivating about pixel art.**
+-- ⚡ Fun fact: I unwind with pixel art-inspired video games, appreciating the artistry in each frame!
+**
+  
+- - 👨‍💻 All of my projects are available at [CodeCrafterNoku's GitHub](https://github.com/CodeCrafterNoku)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +28,12 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crafternoku" height="30" width="40" />
   </a>
 </p>
+
+<h3 align="left">Current Projects:</h3>
+<ul>
+  <li><strong>MasterIt</strong>: Bridging the education divide in South Africa through personalized learning experiences.</li>
+  <li><strong>Flashbacker</strong>: A personal app for capturing and storing memories.</li>
+</ul>
 
 
 <h3 align="left">Languages and Tools:</h3>
