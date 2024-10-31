@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nokubongangema8@gmail.com**
 
-- ⚡ Fun fact: I unwind with pixel art-inspired video games, appreciating the artistry in each frame!
+- ⚡ Fun fact: When I'm not coding, I'm either exploring new worlds in video games or binge-watching tech-inspired series. There's nothing like a good plot twist or a challenging level to keep my problem-solving skills sharp!!
   
 - 👨‍💻 All of my projects are available at [CodeCrafterNoku's GitHub](https://github.com/CodeCrafterNoku)
 
