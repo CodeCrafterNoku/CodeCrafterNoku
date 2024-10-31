@@ -14,9 +14,8 @@
 - 📫 How to reach me **nokubongangema8@gmail.com**
 
 - ⚡ Fun fact: I unwind with pixel art-inspired video games, appreciating the artistry in each frame!
-**
   
-- - 👨‍💻 All of my projects are available at [CodeCrafterNoku's GitHub](https://github.com/CodeCrafterNoku)
+- 👨‍💻 All of my projects are available at [CodeCrafterNoku's GitHub](https://github.com/CodeCrafterNoku)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -33,6 +32,7 @@
 <ul>
   <li><strong>MasterIt</strong>: Bridging the education divide in South Africa through personalized learning experiences.</li>
   <li><strong>Flashbacker</strong>: A personal app for capturing and storing memories.</li>
+  <li><strong>Simple Plates</strong>: An App that allow to save food by alloowing them to search for recipes using ingredients</li>
 </ul>
 
 
