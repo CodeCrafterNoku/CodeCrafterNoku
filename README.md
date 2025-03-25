@@ -31,7 +31,6 @@
 <h3 align="left">Current Projects:</h3>
 <ul>
   <li><strong>MasterIt</strong>: Bridging the education divide in South Africa through personalized learning experiences.</li>
-  <li><strong>Flashbacker</strong>: A personal app for capturing and storing memories.</li>
   <li><strong>Simple Plates</strong>: An app that helps reduce food waste by allowing users to save food items they already have and find recipes based on those ingredients. Just enter the ingredients you have on hand, and discover delicious, creative recipes that use them up, transforming leftovers into something new and tasty. Save food, save money, and reduce waste all in one app!</li>
 </ul>
 
