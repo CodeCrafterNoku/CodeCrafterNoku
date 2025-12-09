@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nokubonga Ngema</h1>
-<h3 align="center">A passionate software developer from South Africa Johannesburg</h3>
+<h3 align="center">A software developer from South Africa Johannesburg</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecrafternoku&label=Profile%20views&color=0e75b6&style=flat" alt="codecrafternoku" /> </p>
